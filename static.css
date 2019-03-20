@@ -1,0 +1,42 @@
+body{
+  background: orange;
+}
+.main{
+  background: skyblue;
+  display: flex;
+  margin: 1%;
+  padding: 1%;
+  justify-content: space-around;
+}
+.left
+{
+  background: pink;
+  text-align: center;
+  margin: 1%;
+  padding: 1%;
+  box-shadow: 5px 5px 5px black;
+  border-radius: 50px 50px 50px;
+  width: 30%;
+}
+.right{
+  background: pink;
+  margin: 1%;
+  padding: 1%;
+  box-shadow: 5px 5px 5px black;
+  border-radius: 50px 50px 50px;
+  width: 55%;
+}
+img{
+  width: 50%;
+  border-radius: 50px 50px 50px ;
+}
+table{
+  width: 70%;
+  border: 1px red;
+}
+hr{
+  background: green;
+}
+anchor{
+  display: flex;
+}
